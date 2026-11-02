@@ -1,22 +1,33 @@
-# 🏎️ Formula Apex Racing - Best Script
+# MintraZERX — Formula Apex
 
-> The ultimate physics, speed, and telemetry optimization suite for **Formula Apex** on Roblox.
+> ⚠️ **SECURITY & DEPRECATION NOTICE**  
+> Direct execution of raw script files from GitHub has been **permanently disabled**.  
+> All payloads are now protected with dynamic AES-256 encryption, ephemeral sessions, and server-side distribution to prevent scraping and tampering.
 
 ---
 
-### ⚡ Quick Loadstring (Copy & Execute)
+## 🚀 How to Run the Official Secured Loader
+
+To use the latest updated and verified version of **Formula Apex**, copy and execute the official bootstrapper script into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kingofgetban-cmyk/FormulaApex/refs/heads/main/FormulaApex.lua"))()
+loadstring(game:HttpGet("https://mintrazerx-keysystem-wf4n.onrender.com/mintrazerx.lua"))()
 ```
 
 ---
 
-### 👨‍💻 Authors & Credits
-- **Telegram**: [@MintraZERX](https://t.me/MintraZERX)
-- **YouTube**: [@Valexcryzer](https://www.youtube.com/@Valexcryzer)
+## 🔑 License Key & Verification
+- **Redeem Key / Get Key:** [https://mintrazerx-keysystem-wf4n.onrender.com/redeem](https://mintrazerx-keysystem-wf4n.onrender.com/redeem)
+- **Official Gateway:** [https://mintrazerx-keysystem-wf4n.onrender.com](https://mintrazerx-keysystem-wf4n.onrender.com)
 
 ---
 
-### 🔒 Security & Protection
-This script is fully protected with dynamic bytecode encryption to protect proprietary vehicle tuning. Free to execute and dominate every Grand Prix!
+### 🛡️ Supported Executors:
+- Synapse X / Synapse Z
+- Delta Executor (Android & Windows)
+- Fluxus (Android & Windows)
+- Wave Executor
+- Codex Android / iOS
+- Macsploit
+
+*All Rights Reserved © 2026 MintraZERX Security Protocol.*
